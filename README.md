@@ -1,10 +1,12 @@
 # Notification Sounds for Claude Code on iOS
 
-While Claude's doing it's thing, I'll often be on another screen doing parallel work.
+**Before audio cues**
+- Leave Claude hanging when it needs input
+- Incessantly toggle back and forth between your work and Claude's progress
 
-Before audio cues, I'd leave Claude hanging when it needs input or I'd incessantly toggle back and forth between my work and Claude's progress.
-
-After audio cues, I can shift focus to my work until Claude lets me know I'm needed. Which has been a much better workflow.
+**After audio cues**
+- Never leave Claude hanging for any longer than you want
+- Shift focus to your parallel work and get notified when you're needed
 
 ## How to set it up
 
