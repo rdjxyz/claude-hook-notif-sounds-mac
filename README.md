@@ -15,7 +15,7 @@
   cd ~/.claude
   ```
 2. If you have a ```scripts/``` directory, ```cd``` into it; otherwise, create one.
-3. Add the 2 ```.sh``` files from this repo.
+3. Add the 2 ```.sh``` files from this repo. (There's a 7 second delay for the "Claude needs input" sound, which is unavoidable; I've tried workarounds to no avail)
 4. Update your ```settings.json``` as shown in the ```.json``` file in this repo.
 5. Start a fresh Claude session and enjoy audio notifications.
 
